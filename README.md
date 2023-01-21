@@ -2,7 +2,7 @@
 
 - 🔭 I'm currently a Programming Student
 - 🌱 I’m currently learning JavaScript
-- 💬 Ask me about anything related to javascript. If I don't know, I'll be happy to learn along with you
+- 💬 Ask me about anything. If I don't know, I'll be happy to learn along with you
 - ⚡ Fun fact: I do love fries with ice cream! It's yummi! 
 
 <div style="display: inline_block"><br>
