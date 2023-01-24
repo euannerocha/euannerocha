@@ -3,7 +3,7 @@
  ![Anne's GitHub stats](https://github-readme-stats.vercel.app/api?username=euannerocha&show_icons=true&theme=transparent)
  
 - 🔭 I'm currently a Programming Student
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning React
 - 💬 Ask me about anything. If I don't know, I'll be happy to learn along with you
 - ⚡ Fun fact: I do love fries with ice cream! It's yummi!
 <br>
