@@ -1,5 +1,7 @@
-### Hi, there! 👋
+### Hi, there! I'm Anne! 👾
 
+ ![Anne's GitHub stats](https://github-readme-stats.vercel.app/api?username=euannerocha&show_icons=true&theme=tokyonight)
+ 
 - 🔭 I'm currently a Programming Student
 - 🌱 I’m currently learning JavaScript
 - 💬 Ask me about anything. If I don't know, I'll be happy to learn along with you
@@ -16,4 +18,4 @@
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anneliserocha/)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](annelisesr@gmail.com)
 
-  ![Anne's GitHub stats](https://github-readme-stats.vercel.app/api?username=euannerocha&show_icons=true&theme=tokyonight)
+ 
