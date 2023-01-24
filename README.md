@@ -1,11 +1,14 @@
 ### Hi, there! I'm Anne! 👾
 
- ![Anne's GitHub stats](https://github-readme-stats.vercel.app/api?username=euannerocha&show_icons=true&theme=tokyonight)
+ ![Anne's GitHub stats](https://github-readme-stats.vercel.app/api?username=euannerocha&show_icons=true&theme=transparent)
  
 - 🔭 I'm currently a Programming Student
 - 🌱 I’m currently learning JavaScript
 - 💬 Ask me about anything. If I don't know, I'll be happy to learn along with you
 - ⚡ Fun fact: I do love fries with ice cream! It's yummi!
+<br>
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=euannerocha&layout=compact)](https://github.com/euannerocha/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -18,4 +21,3 @@
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anneliserocha/)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](annelisesr@gmail.com)
 
- 
