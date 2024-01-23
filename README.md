@@ -20,9 +20,8 @@
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Figma" height="30" width="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
   <img align="center" alt="Typescript" height="30" width="30" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg">
-  <img align="center" alt="C#" height="30" width="30" style="margin-left: 100px;" src="https://vetores.org/d/c-sharp.svg">
-
-  </div>
+  <img align="center" alt="C#" height="30" width="30" style="margin-left: 10px;" src="https://vetores.org/d/c-sharp.svg">
+</div>
   <br>
 
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anneliserocha/)
