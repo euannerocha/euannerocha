@@ -2,10 +2,11 @@
 
  ![Anne's GitHub stats](https://github-readme-stats.vercel.app/api?username=euannerocha&show_icons=true&theme=transparent)
  
-- 🔭 I'm currently a Programming Student
-- 👩‍💻 I'm studying react at the moment!
+- 🔭 I'm currently a programming student and systems developer. 
+- 👩‍💻 I'm studying React and Typescript at the moment!
 - 💬 Ask me about anything. If I don't know, I'll be happy to learn along with you
 - ⚡ Fun fact: I do love fries with ice cream! It's yummi!
+- 🤓 I'm currently working on my project "366 code", where I commit to solving a logic problem daily!
 <br>
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=euannerocha&layout=compact)](https://github.com/euannerocha/github-readme-stats)
@@ -18,6 +19,7 @@
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Figma" height="30" width="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
+  <img align="center" alt="Typescript" height="30" width="40" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/typescriptlang/typescriptlang-icon.svg">
 
   </div>
   <br>
