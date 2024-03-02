@@ -2,7 +2,7 @@
 
  ![Anne's GitHub stats](https://github-readme-stats.vercel.app/api?username=euannerocha&show_icons=true&theme=transparent)
  
-- 🔭 I'm currently a programming student and systems developer. 
+- 🔭 I'm currently a programming student and systems developer, i work with TS and React.
 - 👩‍💻 I'm studying React and Typescript at the moment!
 - 💬 Ask me about anything. If I don't know, I'll be happy to learn along with you
 - ⚡ Fun fact: I do love fries with ice cream! It's yummi!
