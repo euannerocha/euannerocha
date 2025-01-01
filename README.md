@@ -6,7 +6,7 @@
 - 👩‍💻 I'm studying React and Typescript at the moment!
 - 💬 Ask me about anything. If I don't know, I'll be happy to learn along with you
 - ⚡ Fun fact: I do love fries with ice cream! It's yummi!
-- 🤓 I'm currently working on my project "366 code", where I commit to solving a logic problem daily (except the days that I don't HIHIHI), ! And sometimes I add a summary of a topic I studied during the day!
+- 🤓 I'm currently working on my project "Leet365Code", where I commit to solving a logic problems from LeetCode daily (except the days that I don't HIHIHI)! And sometimes I can add a summary of a topic I studied during the day!
 <br>
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=euannerocha&layout=compact)](https://github.com/euannerocha/github-readme-stats)
